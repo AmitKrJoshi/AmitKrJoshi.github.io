@@ -1,2 +1,2 @@
 # Index
-[MyCV](https://amitkrjoshi.github.io/CV/)
+[MyCV](https://amitkrjoshi.github.io/CV)
