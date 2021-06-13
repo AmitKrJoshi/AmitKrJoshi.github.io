@@ -1,2 +1,2 @@
-# AmitKrJoshi.github.io
+# Home
 Website
