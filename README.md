@@ -1,3 +1,4 @@
+Website
 ## Welcome to GitHub Pages
-
- [MyCV](https://amitkrjoshi.github.io/Amit-s-online-cv/)
+# Home
+[MyCV](https://amitkrjoshi.github.io/Amit-s-online-cv/)
